@@ -1,0 +1,15 @@
+cd thecmdchallenge/
+pwd
+ls -l
+ls -l . /abc
+clear
+cd tab until last directory and cat trophy.txt 
+find . -name "*.js"
+mkdir not-that-funny
+cp the-mostboring-text.txt lol.txt
+mv kids.jpg images/hello/kids.jpg
+rm -r small-name/
+cat the-ultimate-joke.txt :)  What do you call a programmer from Finland? ..... NERDIC!
+rm -r boringfolder/
+nano jokes.md 
+Where do you put Vegeta after you kill him? In the Frieza.
